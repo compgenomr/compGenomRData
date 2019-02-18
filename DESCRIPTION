@@ -1,0 +1,12 @@
+Package: compGenomRData
+Type: Package
+Title: Data for Computational Genomics with R book
+Version: 0.1.0
+Author: Altuna Akalin
+Maintainer: Altuna Akalin <aakalin@gmail.com>
+Description:The package contains text, RDS and other genomics specific 
+            data required for reproduction of the analysis in the Computational
+            Genomics with R book.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
