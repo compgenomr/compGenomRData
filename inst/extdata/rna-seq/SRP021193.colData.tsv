@@ -1,0 +1,13 @@
+diagnosis	group	LibrarySelection
+CASE_1	non-ischemic cardiomyopathy	CASE	cDNA
+CASE_2	non-ischemic cardiomyopathy	CASE	cDNA
+CASE_3	non-ischemic cardiomyopathy	CASE	cDNA
+CASE_4	non-ischemic cardiomyopathy	CASE	size fractionation
+CASE_5	non-ischemic cardiomyopathy	CASE	size fractionation
+CASE_6	non-ischemic cardiomyopathy	CASE	size fractionation
+CTRL_1	non-failing	CTRL	cDNA
+CTRL_2	non-failing	CTRL	cDNA
+CTRL_3	non-failing	CTRL	cDNA
+CTRL_4	non-failing	CTRL	size fractionation
+CTRL_5	non-failing	CTRL	size fractionation
+CTRL_6	non-failing	CTRL	size fractionation

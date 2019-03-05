@@ -1,0 +1,11 @@
+source_name	group
+CASE_1	metastasized cancer	CASE
+CASE_2	metastasized cancer	CASE
+CASE_3	metastasized cancer	CASE
+CASE_4	metastasized cancer	CASE
+CASE_5	metastasized cancer	CASE
+CTRL_1	normal colon	CTRL
+CTRL_2	normal colon	CTRL
+CTRL_3	normal colon	CTRL
+CTRL_4	normal colon	CTRL
+CTRL_5	normal colon	CTRL
