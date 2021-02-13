@@ -15,7 +15,7 @@ Error in utils::download.file(url, path, method = method, quiet = quiet,  :
   download from 'https://api.github.com/repos/compgenomr/compGenomRData/tarball/HEAD' failed
 ```
 
-Try increasing the timeout with before running `devtools::install_github("compgenomr/compGenomRData")`
+Try increasing the timeout before running `devtools::install_github("compgenomr/compGenomRData")`
 
 ```
 options(timeout=300)
