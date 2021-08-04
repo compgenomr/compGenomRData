@@ -21,5 +21,8 @@ Try increasing the timeout before running `devtools::install_github("compgenomr/
 options(timeout=300)
 ```
 
-
+If this doesn't work, download the tar.gz file from here https://github.com/compgenomr/compGenomRData/releases/tag/v1.0. then use the following line on the terminal to install the package from source. 
+```
+R CMD INSTALL compGenomRData-1.0.tar.gz
+```
 
